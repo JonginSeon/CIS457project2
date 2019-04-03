@@ -1,0 +1,3 @@
+host A: hello.txt - this is a file
+host A: byebye.txt - another
+host A: testfile.txt - this is the last 

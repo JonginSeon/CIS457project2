@@ -1,0 +1,6 @@
+host A: hello.txt - this is a file
+host A: byebye.txt - another
+host A: testfile.txt - this is the last 
+host B: school.txt - hello
+host B: cis457.txt - this is a project2
+host B: today.txt - we are done

@@ -1,0 +1,3 @@
+host B: school.txt - hello
+host B: cis457.txt - this is a project2
+host B: today.txt - we are done
